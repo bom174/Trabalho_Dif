@@ -10,3 +10,5 @@ function calcularMedia() {
 
     alert("A média dos números é: " + media);
 }
+
+calcularMedia();
